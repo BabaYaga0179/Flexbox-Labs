@@ -35,10 +35,10 @@ Flexbox Labs is a visual tool that helps you create layouts using CSS Flexbox. I
 
 ### Built with
 
+[![NextJS][nextjs-image]][nextjs-url]
 [![React][react-image]][react-url]
 [![TypeScript][typescript-image]][typescript-url]
 [![Sass][sass-image]][sass-url]
-[![vite][vite-image]][vite-url]
 [![Framer][framer-image]][framer-url]
 
 ![FlexLab Screenshot](.github/images/Screenshot1.png)
@@ -54,18 +54,18 @@ Check out the live demo of Flexbox Labs: [Demo](https://flexboxlabs.netlify.app/
 #### 1. Clone the repository
 
 ```shell
-git clone https://github.com/your-username/flexbox-labs.git
+git clone https://github.com/prazzon/flexbox-labs.git
 ```
 
-#### 2. Install npm dependencies
+#### 2. Navigate to the app directory
+```shell
+cd flexbox-labs
+```
+
+#### 3. Install npm dependencies
 
 ```shell
 npm install
-```
-
-#### 3. Navigate to the app directory
-```shell
-cd flexbox-labs
 ```
 
 #### 4. Run the dev server
@@ -92,7 +92,7 @@ Flexbox Labs is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-If you have any feedback, suggestions, or issues, please [open an issue](https://github.com/yourusername/flexbox-labs/issues).
+If you have any feedback, suggestions, or issues, please [open an issue](https://github.com/prazzon/flexbox-labs/issues).
 Your input is appreciated!
 
 ## Acknowledgements
@@ -100,14 +100,14 @@ Your input is appreciated!
 - [use-hooks](https://usehooks.com/)
 - [react icons](https://usehooks.com/)
 
+[nextjs-image]: https://img.shields.io/badge/NextJS-1a1a1a?style=for-the-badge&logo=nextdotjs
 [react-image]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [typescript-image]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge
 [sass-image]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [framer-image]: https://img.shields.io/badge/Framer%20Motion-1a1a1a?style=for-the-badge&logo=framer
-[vite-image]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=Vite
 
+[nextjs-url]: https://nextjs.org/
 [react-url]: https://react.dev/
 [typescript-url]: https://www.typescriptlang.org/
 [sass-url]: https://sass-lang.com/
 [framer-url]: https://www.framer.com
-[vite-url]: https://vitejs.dev/
